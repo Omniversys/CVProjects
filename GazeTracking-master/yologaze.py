@@ -36,6 +36,7 @@ def gaze_tracking(frame):
 
 
     # Return the frame with the gaze tracking results
+
     return frame
 
 # Start the gaze tracking loop
